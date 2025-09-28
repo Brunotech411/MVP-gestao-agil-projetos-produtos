@@ -11,8 +11,8 @@ Repositório do MVP desenvolvido na disciplina **Gestão Ágil de Projetos e Pro
   [sprint-backlog.pdf](https://github.com/Brunotech411/MVP-gestao-agil-projetos-produtos/blob/main/sprint-backlog.pdf.pdf)
 
 - **Wireframes (protótipos low-fi)**  
-  [Wireframes - Tablet](https://github.com/Brunotech411/MVP-gestao-agil-projetos-produtos/blob/main/wireframe/Fluxo%20T%C3%A9cnico%20(Tablet%201280x800).pdf)  
-  [Wireframes - Desktop](https://github.com/Brunotech411/MVP-gestao-agil-projetos-produtos/blob/main/wireframe/Fluxo%20do%20Engenheiro%20(Desktop).pdf)
+  [Fluxo Técnico - Tablet](https://github.com/Brunotech411/MVP-gestao-agil-projetos-produtos/blob/main/wireframe/Fluxo%20T%C3%A9cnico%20(Tablet%201280x800).pdf)  
+  [Fluxo Engenheiro - Desktop](https://github.com/Brunotech411/MVP-gestao-agil-projetos-produtos/blob/main/wireframe/Fluxo%20do%20Engenheiro%20(Desktop).pdf)
 
 ---
 
