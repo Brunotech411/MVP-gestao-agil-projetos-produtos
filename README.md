@@ -11,7 +11,7 @@ O produto escolhido foi o **Smart Field Tech**, um assistente de manutenção in
   [Acessar no Miro](https://miro.com/app/board/uXjVJFRopp8=/?share_link_id=287627100484)
 
 - **Product Backlog** (épicos, features, user stories, DoR e DoD)  
-  [product-backlog.pdf](./product-backlog.pdf)
+  [product-backlog.pdf](https://github.com/Brunotech411/MVP-gestao-agil-projetos-produtos/blob/main/product-backlog.pdf.pdf)
 
 - **Sprint Backlog** (Sprint 1, histórias detalhadas, estimativas, critérios de aceitação)  
   [sprint-backlog.pdf](./sprint-backlog.pdf)
