@@ -1,4 +1,5 @@
 # MVP-gestao-agil-projetos-produtos
+
 Repositório do MVP desenvolvido na disciplina **Gestão Ágil de Projetos e Produtos** do curso de Pós-Graduação em Engenharia de Software da PUC-Rio.  
 O produto escolhido foi o **Smart Field Tech**, um assistente de manutenção inteligente para técnicos em campo e engenheiros na base.
 
@@ -7,7 +8,7 @@ O produto escolhido foi o **Smart Field Tech**, um assistente de manutenção in
 ## 📌 Artefatos da Entrega
 
 - **Lean Inception + MVP Canvas**  
-  [canvas-url.txt](./canvas-url.txt)
+  [Acessar no Miro](https://miro.com/app/board/uXjVJFRopp8=/?share_link_id=287627100484)
 
 - **Product Backlog** (épicos, features, user stories, DoR e DoD)  
   [product-backlog.pdf](./product-backlog.pdf)
@@ -18,9 +19,6 @@ O produto escolhido foi o **Smart Field Tech**, um assistente de manutenção in
 - **Wireframes (protótipos low-fi)**  
   [Wireframes - Tablet](./wireframes/fluxo_tecnico_tablet.pdf)  
   [Wireframes - Desktop](./wireframes/fluxo_engenheiro_desktop.pdf)
-
-- **Vídeo de Apresentação (2 a 4 min)**  
-  [apresentacao.mp4](./apresentacao.mp4)
 
 ---
 
@@ -61,4 +59,4 @@ Equipe enxuta, com foco na entrega incremental do MVP.
 - Protótipo atualizado no Figma.  
 - **Requisito não funcional**: resposta das telas < 3s em 95% dos acessos.
 
----
+
