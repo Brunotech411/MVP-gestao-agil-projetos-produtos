@@ -18,13 +18,29 @@ Repositório do MVP desenvolvido na disciplina **Gestão Ágil de Projetos e Pro
 
 ## 👥 Equipe Scrum (hipotética)
 
-- **Product Owner**: Bruno Leonardo Ramos dos Santos  
-- **Scrum Master**: (nome fictício)  
-- **Development Team**:  
-  - Dev Backend (Python/Flask)  
-  - Dev Frontend (Figma/HTML/JS)  
-  - Engenheiro de Testes  
-  - UX Designer  
+- **Product Owner**: **Phelipe**  
+  Responsável por priorizar o Product Backlog, definir metas da sprint, aceitar/rejeitar histórias e representar as necessidades do negócio no dia a dia (Jira, critérios de aceitação, valor de negócio).
+
+- **Scrum Master / Dev Backend**: **Bruno Leonardo Ramos dos Santos**  
+  Facilita cerimônias, remove impedimentos e garante a aderência ao framework. Atua também como **desenvolvedor backend** (Python/Flask, SQLite, documentação Swagger, integração com dados).
+
+- **Dev Frontend**: **Milene**  
+  Responsável pelo **Figma → HTML/CSS/JS**, padronização de componentes, responsividade (tablet/desktop) e fidelidade ao wireframe.
+
+- **Stakeholder (Cliente principal)**: **Lucas**  
+  Participação **apenas no Kickoff e no Showcase/Review**, validando escopo, demonstrativos e incrementos entregues (papel de cliente e principal stakeholder).
+
+### Participação nas cerimônias
+- **Sprint Planning**: Phelipe, Bruno, Milene (Lucas opcional para alinhar expectativas).
+- **Daily Scrum**: Bruno, Milene.
+- **Sprint Review / Showcase**: Phelipe, Bruno, Milene **+ Lucas**.
+- **Retrospective**: Phelipe, Bruno, Milene.
+
+### Habilidades-chave (resumo)
+- **Phelipe**: priorização, descoberta de produto, escrita de histórias, gestão de stakeholders (Jira/Miro).
+- **Bruno**: arquitetura e APIs em Flask, banco de dados SQLite, testes básicos, automação de documentação (Swagger).
+- **Milene**: prototipação no Figma, implementação front-end, usabilidade, design system low-fi → high-fi.
+- **Lucas**: validação de necessidades, feedback de negócio, aceite de demonstrações no showcase.
 
 Equipe enxuta, com foco na entrega incremental do MVP.
 
@@ -79,7 +95,8 @@ Com a solução, técnicos podem consultar dados do equipamento, acessar diagram
 - **Checklist digital de manutenção** para padronizar inspeções.  
 - **Tablet Master** para supervisores acompanharem atividades em tempo real.  
 - **Dashboards de KPIs** para engenheiros de base acompanharem desempenho e criticidade.  
-- **Sugestões de análise de causa raiz** para acelerar diagnósticos complexos.  
+- **Sugestões de análise de causa raiz** para acelerar diagnósticos complexos. 
+- **Inteligência artificial generativa** para auxiliar com insights e estudos complexos.
 
 ---
 
